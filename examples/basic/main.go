@@ -125,7 +125,7 @@ func main() {
 		}
 	}()
 
-	msg, err := tonconnect.NewMessage("UQCJ1-sj6HahSz3fXaT50lSfpZVQDoJaFVahpJLpJ5SXqQ5Y", "100000000")
+	msg, err := tonconnect.NewMessage("UQAkG--bP5o7dyKrCueiuqM0iG_txyRwUNR8JGfT13-ec7pU", "10000000")
 	if err != nil {
 		log.Fatal(err)
 	}
